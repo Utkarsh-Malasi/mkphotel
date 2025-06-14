@@ -191,10 +191,11 @@ const Header = () => {
         </nav>
 
         {/* Book Now Button */}
-        <button className="book-now-button">
-          <i className="fas fa-phone-alt"></i>
-          Contact Us
-        </button>
+        <a href="tel:+919636211539" className="book-now-button">
+  <i className="fas fa-phone-alt"></i>
+  Contact Us
+</a>
+
       </div>
 
       {/* Overlay for mobile menu */}
