@@ -28,7 +28,7 @@ function Home() {
           WebkitTextFillColor: 'white'
         }}>Experience the charm of Mussoorie at our exquisite hotel.</h2>
         <div style={{ marginTop: '20px' }}>
-          <a href="tel:+919910597907">
+          <a href="tel:+919636211539">
             <button style={{
               padding: '10px 20px',
               margin: '0 10px',

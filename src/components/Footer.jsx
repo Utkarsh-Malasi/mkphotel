@@ -64,7 +64,7 @@ const Footer = () => (
           </div>
           <div style={{display: "flex", alignItems: "center", marginBottom: "0.5rem"}}>
             <i className="fas fa-phone" style={{marginRight: "0.5rem", fontSize: "0.75rem"}}></i>
-            <span>+91 9910597907</span>
+            <span>+91 9636211539</span>
           </div>
           <div style={{display: "flex", alignItems: "center"}}>
             <i className="fas fa-envelope" style={{marginRight: "0.5rem", fontSize: "0.75rem"}}></i>

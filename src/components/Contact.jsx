@@ -30,7 +30,7 @@ const socialMedia = [
 const contactInfo = [
   {
     type: "Phone",
-    value: "+91 9997784157, +91 9910597907",
+    value: "+91 9997784157, +91 9636211539",
     icon: "fas fa-phone-alt",
     action: "tel:+919997784157",
     color: "#6a9bd8"
@@ -304,7 +304,7 @@ const Contact = () => {
                 Call Us 
               </a>
             <a
-              href="tel:+919910597907"
+              href="tel:+919636211539"
               style={{
                 background: "#6a9bd8",
                 color: "white",
